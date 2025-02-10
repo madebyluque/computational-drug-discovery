@@ -244,5 +244,3 @@ CHEMBL5436771,S=C([S-])NCc1cccnc1.[K+],165.0,active
 CHEMBL2365410,CC(C)C[C@H](NC(=O)OCc1ccccc1)C(=O)N[C@@H](CC1CCNC1=O)C(O)S(=O)(=O)O,161.0,active
 CHEMBL5436771,S=C([S-])NCc1cccnc1.[K+],165.96,
 CHEMBL2365410,CC(C)C[C@H](NC(=O)OCc1ccccc1)C(=O)N[C@@H](CC1CCNC1=O)C(O)S(=O)(=O)O,162.18,
-,,,inactive
-,,,intermediate
